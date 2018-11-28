@@ -12,6 +12,7 @@ class StopWatch
 		StopWatch()
 		{
 			totalTime = 0;
+			indTime = 0;
 		}
 		void start()
 		{
