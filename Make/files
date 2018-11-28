@@ -1,0 +1,3 @@
+pimpleTimeFoam.C
+
+EXE = $(FOAM_APPBIN)/pimpleTimeFoam
